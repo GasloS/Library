@@ -1,2 +1,22 @@
-# Library
-Educational SQLite library database: catalogue, physical copies, branches, members, loans, holds and stock movements — with foreign keys, integrity constraints and realistic seed data.
+\# Library
+
+
+
+\## О проекте
+
+Описание проекта будет добавлено позже.
+
+
+
+\## Структура проекта
+
+\- docs/
+
+\- sql/
+
+\- data/
+
+\- excel/
+
+\- presentation/
+
